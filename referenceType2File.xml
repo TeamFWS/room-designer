@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>bb69550d568d9c9439f368b4591d4400</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.868417+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a0cbcc460944bd4e99ef74efdf355ae</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.8699337+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f42e32dc241460468b51d7ed2756e0a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.8724515+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35787e86cb28a904799476ba503a2d45</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.8749799+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>86acb9977a9ebfe4bbd562e4c6bf6a85</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.8774952+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>385c8f0628e937b4f993e50d86ff021f</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2025-01-24T09:42:52.8794924+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fbfdc6b6b1ea460facc6ae3c8053f008</guid>
+    <fileName>Assets/Scripts/AppState.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1724928+01:00</timeStamp>
+    <typeFullName>
+      <string>AppState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66d0dacbc7b64ab3a02baaef1e8ffc15</guid>
+    <fileName>Assets/Scripts/Cleaner.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1920171+01:00</timeStamp>
+    <typeFullName>
+      <string>Cleaner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>32ed6976e8584e25b868866a9557f41f</guid>
+    <fileName>Assets/Scripts/IkeaModelLoader.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1890164+01:00</timeStamp>
+    <typeFullName>
+      <string>IkeaModelLoader</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>70d33a94ec4e40d4b063309c1e5dab1c</guid>
+    <fileName>Assets/Scripts/IkeaModelSpawner.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1910152+01:00</timeStamp>
+    <typeFullName>
+      <string>IkeaModelSpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>057cf64c501740e794b74be34a2572d1</guid>
+    <fileName>Assets/Scripts/IkeaProductUrlFetcher.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1870154+01:00</timeStamp>
+    <typeFullName>
+      <string>IkeaProductUrlFetcher</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b90924b1d225e243a08fe5586fa054c</guid>
+    <fileName>Assets/Scripts/RaySpawner.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.177019+01:00</timeStamp>
+    <typeFullName>
+      <string>RaySpawner</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1188ccf97e454e28b0c8fec8de7ff729</guid>
+    <fileName>Assets/Scripts/StartState.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1780187+01:00</timeStamp>
+    <typeFullName>
+      <string>StartState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a67b3d1bf3348099360dc1f7b4aa220</guid>
+    <fileName>Assets/Scripts/StateManager.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.1800143+01:00</timeStamp>
+    <typeFullName>
+      <string>StateManager</string>
+      <string>StateManager+OnStateChange</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>185f4ca374e247239fc68f08d24fd26c</guid>
+    <fileName>Assets/Scripts/ManualRoom/GridCell.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0468875+01:00</timeStamp>
+    <typeFullName>
+      <string>ManualRoom.GridCell</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a0a5f0645bcd4187bb25a75e75e71ab4</guid>
+    <fileName>Assets/Scripts/ManualRoom/RaySelectGrid.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0488869+01:00</timeStamp>
+    <typeFullName>
+      <string>ManualRoom.RaySelectGrid</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29bc19a2f7574ae08ef48d5e92b6e553</guid>
+    <fileName>Assets/Scripts/ManualRoom/RoomCreation.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0508918+01:00</timeStamp>
+    <typeFullName>
+      <string>ManualRoom.RoomCreation</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0599445b221040c8840108c9795fc8af</guid>
+    <fileName>Assets/Scripts/ManualRoom/RoomGeneratorcs.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0528863+01:00</timeStamp>
+    <typeFullName>
+      <string>ManualRoom.RoomGenerator</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a01323cf3d74dbca0add8871eef57ce</guid>
+    <fileName>Assets/Scripts/ManualRoom/RoomGrid.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0548861+01:00</timeStamp>
+    <typeFullName>
+      <string>ManualRoom.RoomGrid</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8ec04493da354dbbb6dfdbd59a528257</guid>
+    <fileName>Assets/Scripts/Paint/RayPaint.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0578872+01:00</timeStamp>
+    <typeFullName>
+      <string>Paint.RayPaint</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2fc9fb62b76c4d6aadcefd7f43301614</guid>
+    <fileName>Assets/Scripts/UI/FurnitureTab.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0824116+01:00</timeStamp>
+    <typeFullName>
+      <string>UI.FurnitureTab</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2a68592f97f04155a648df4355ffa91b</guid>
+    <fileName>Assets/Scripts/UI/ManualCreateRoom.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0638864+01:00</timeStamp>
+    <typeFullName>
+      <string>UI.ManualCreateRoom</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>adb782aa217247da89e6b0ad0fdde7ef</guid>
+    <fileName>Assets/Scripts/UI/RoomTab.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0754134+01:00</timeStamp>
+    <typeFullName>
+      <string>UI.RoomTab</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9cac4ac71df3ba94c8fbfde33347fb07</guid>
+    <fileName>Assets/Scripts/UI/SideMenu.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0784138+01:00</timeStamp>
+    <typeFullName>
+      <string>UI.SideMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2af5c75b149449e9e3f87736d71a932</guid>
+    <fileName>Assets/Scripts/UI/ToggleMenu.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0804107+01:00</timeStamp>
+    <typeFullName>
+      <string>UI.ToggleMenu</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.0258856+01:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.3370961+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ffe04ecf2f96f9c45bab5a2f39e0d8c9</guid>
+    <fileName>Assets/UI/FlexibleColorPicker/ExampleScene/FCP_ExampleScript.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.357144+01:00</timeStamp>
+    <typeFullName>
+      <string>FCP_ExampleScript</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7da1b0489b84d12469f154b8cd52049c</guid>
+    <fileName>Assets/UI/FlexibleColorPicker/Scripts/FCP_Persistence.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.4141366+01:00</timeStamp>
+    <typeFullName>
+      <string>FCP_Persistence</string>
+      <string>FCP_Persistence+SaveStrategy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ea7ea40fb6ab6048a5f962e5dab4e5d</guid>
+    <fileName>Assets/UI/FlexibleColorPicker/Scripts/FCP_SpriteMeshEditor.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.4171402+01:00</timeStamp>
+    <typeFullName>
+      <string>FCP_SpriteMeshEditor</string>
+      <string>FCP_SpriteMeshEditor+MeshType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31629c56f6f83234a90f6296f902f9c0</guid>
+    <fileName>Assets/UI/FlexibleColorPicker/Scripts/FlexibleColorPicker.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.421138+01:00</timeStamp>
+    <typeFullName>
+      <string>FlexibleColorPicker</string>
+      <string>FlexibleColorPicker+MainPickingMode</string>
+      <string>FlexibleColorPicker+ColorUpdateEvent</string>
+      <string>FlexibleColorPicker+AdvancedSettings</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9a0fb57bfa6a4c4ca9f9c98c8281429</guid>
+    <fileName>Assets/Samples/Meta XR Interaction SDK Essentials/68.0.2/UnityXR Integration/Scripts/Editor/VerifyScenePackageDependencies.cs</fileName>
+    <timeStamp>2025-03-27T13:55:39.3516168+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
