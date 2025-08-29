@@ -30,5 +30,14 @@ The app allows importing room scans created with Meta Quest tools, placing virtu
 - Experience with **XR simulation & testing pipelines**.  
 
 ## Screenshots  
-*(to be added)*  
+<table>
+  <tr>
+    <td><img src="screenshots/screen_1.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_2.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screen_3.jpg" width="100%"/></td>
+    <td><img src="screenshots/screen_4.jpg" width="100%"/></td>
+  </tr>
+</table>
 
